@@ -1,7 +1,7 @@
 # Sign-Language-Translator
 This project aims to develop a cutting-edge system that leverages Convolutional Neural Networks (CNN) to detect sign language from images and convert it into audio, and vice versa, thus facilitating seamless communication between deaf or hard-of-hearing individuals and those unfamiliar with sign language.
 
-# Project Overview
+## Project Overview
 This project aims to bridge the communication gap between deaf or hard-of-hearing individuals and those unfamiliar with sign language. By leveraging the power of Convolutional Neural Networks (CNN), our system detects sign language from images and converts it into spoken audio. Conversely, it can also translate spoken language into sign language images or animations, making interactions more accessible and inclusive.
 
 This system uses the WLASL (Word-Level American Sign Language) dataset as its foundation for training and validation, ensuring a broad and diverse range of signs can be accurately recognized and translated.
